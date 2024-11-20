@@ -1,2 +1,5 @@
-/Backup
-Jeonju-Museum-Touchmonitor.*.toe
+*/Backup
+Jeonju-Museum-Touch-Monitor-To-LED/Jeonju-Museum-Touchmonitor.*.toe
+Jeonju-Museum-Touch-Monitors-UI/jeonju-chekgado.*.toe
+.DS_Store
+*/.DS_Store
